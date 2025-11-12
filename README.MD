@@ -15,7 +15,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Gemini](https://gemini.google.com/app) 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
 
@@ -23,15 +23,9 @@ Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  título  | Crie um título de um ebook sobre o tema de [TEMA]. O ebook é do nicho [NICHO DO TEMA] e o subnicho é de []cyber segurança, o título deve ser épico e curto, e tenha uma temática de duna no título, me liste 5 variações de títulos                                                            |
+| conteúdo | Faça um texto para um ebook de título [TÍTULO], com foco em [TEMA], [DESCRIÇÃO DO ASSUNTO]. {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos em contextos reais. Sempre deixe um título sugestivo por tópico. |
+| imagem | Assumindo que a imagem vai ser criada na mesma conversa do texto: Poderia criar uma capa para esse ebook, considerando os temas e assuntos abordados?
 
 ## ✨ Features
 
@@ -44,4 +38,4 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, **canva** ou indesign para diagramação.
